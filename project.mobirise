@@ -1,20 +1,20 @@
 {
   "settings": {
+    "name": "NewSite-04-25_1726",
     "currentPage": "index.html",
-    "name": "Coca-Cola Blog",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#f28281",
-        "secondaryColor": "#bfcecb",
-        "successColor": "#f3c649",
+        "primaryColor": "#553982",
+        "secondaryColor": "#eb6b56",
+        "successColor": "#90a878",
         "infoColor": "#7e9b9f",
-        "warningColor": "#f3c649",
-        "dangerColor": "#f97352",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "warningColor": "#3d8eb9",
+        "dangerColor": "#f28281",
+        "titleFont": "Slabo 27px",
+        "subtitleFont": "PT Sans Narrow",
+        "textFont": "Lora",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
@@ -22,10 +22,8 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 45,
-    "versionPublish": "3.12.1",
-    "favicon": "",
-    "noImageResize": ""
+    "uniqCompNum": 5,
+    "versionPublish": "3.12.1"
   },
   "pages": {
     "index.html": {
@@ -43,357 +41,58 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-5",
+          "_anchor": "header1-0",
           "_params": {
-            "parallax": false,
+            "parallax": true,
             "bgImageRadio": false,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-3-2000x1333.jpg",
-            "bgColor": "#f28281",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
+            "bgColor": "#553982",
             "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
-              "url": "https://www.youtube.com/embed/3Bq9NzNScPQ?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "url": "https://www.youtube.com/embed/mQrlgH97v94?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
             "bgVideoRadio": true,
-            "overlay": false,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true
-          },
-          "title": "Coca-Cola and the Power of Social Media&nbsp;<br><br>",
-          "text": "",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"n\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Blog Created By: Sirine Abou-Hamdan</a>    "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "text-align": "left"
-            },
-            ".lead UL": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-q",
-          "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1328.jpg",
-            "bgColor": "#90a878",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#fac51c",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "Introduction:",
-          "text": "<p>The purpose of this blog is to display information, pictures, videos and more on the Coca-Cola Company. This blog is created to analyze the successes that Coca-Cola's brand has had over the years and considers the company's outstanding involvement in social media over time. The brand has been a part of a lot of people's lives for so long now, and therefore I will be discussing a little bit about &nbsp;the company's history and the brand's different social media marketing platforms. &nbsp;I will also be displaying examples of the company's unique involvement in social media &nbsp;and how the brand continues to add new ideas and campaigns to keep its marketing strategy and social media pages interesting for their fans globally. &nbsp;Finally, I will share &nbsp;with you my thoughts on the company's marketing and social media platforms, and tell you if I &nbsp;agree or disagree with their social media startegy. &nbsp;</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-2",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "text-align": "center"
-            },
-            ".mbr-section-lead P": {
-              "color": "#000000",
-              "text-align": "left"
-            },
-            ".mbr-section-lead B": {
-              "font-size": "84px",
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-9",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
-            "showButtons": false
-          },
-          "title": "",
-          "text": "<b>Coca-Cola's History:&nbsp;</b><br><p><span style=\"font-style: normal;\"><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span></span></p><p><span style=\"font-style: normal;\"><span style=\"font-size: 1.5rem; line-height: 1.5;\">Coca-Cola was founded in 1886 by a pharmacist named Dr. John S. Pemberton. His curiosity resulted in him creating a unique soft drink that was made out of flavored syrup and mixed with carbonated water. During the first year that Coca-Cola was introduced, sales averaged about 9 servings a day. Today, daily consumption of Coca-Cola is approximately 1.9 billion worldwide. It has become one of the most popular brands in the world, and the company's involvement with social media has been influencing people around the world in so many ways.&nbsp;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\">Frank M. Robinson, partnering with Pemberton was credited for naming the beverage “Coca‑Cola” and designing the trademarked and distinct scripted logo. &nbsp;</span></span></p><br><p><span style=\"font-style: normal;\"><span style=\"font-size: 1.5rem; line-height: 1.5;\">(This informtion was retrieved from Coca Cola's History Page).&nbsp;</span></span><br></p><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a>"
-        },
-        {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000000"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header5",
-          "_anchor": "header5-b",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2-2000x1333.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.3",
-            "overlayColor": "#ffffff",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
             "showButtons": true
           },
-          "title": "<br><br><br><br><br>Coca-Cola's Involvement In Social Media<br>",
-          "text": "<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://simplymeasured.com/blog/lessons-from-coca-colas-social-media-strategy-cohesive-campaigns-and-creative-content/#sm.000002rskd4pg1eyctztzazh25dl0\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">How Coca-Cola Crushes<br>Social Media(blog)<br></a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://econsultancy.com/blog/62548-how-coca-cola-uses-facebook-twitter-pinterest-and-google/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">How Coca-Cola uses Facebook, Twitter, <br>Pinterest and Google+(blog)</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"http://www.investopedia.com/articles/markets/100715/what-makes-share-coke-campaign-so-successful.asp\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">What makes the \"Share a Coke\" Campaign<br>So Successful? (blog)<br></a>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "SMALL": {
-              "color": "#000000"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-10",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff",
-            "showMeta": true
-          },
-          "title": "My Blog:",
-          "meta": "By Sirine Abou-Hamdan posted April, 2017"
+          "title": "FULL SCREEN INTRO",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR MAC</a>  "
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "content7",
-          "_styles": {
-            "DIV": {
-              "color": "#000000"
-            }
-          },
-          "_anchor": "content7-o",
+          "_anchor": "content7-4",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#f7da64"
+            "bgColor": "#fff"
           },
-          "text1": "Today, Coca-Cola has become one of the most famous brands in the world. Coca-Cola is aware of the importance of social media; therefore, it uses different social media strategies to capture the attention of the huge velocity of customers it has around the world. Plenty of conversations occur online about Coca-Cola daily, and the company is aware that connecting with customers through social media  and keeping a positive image of the brand is an essential element to maintaining an ongoing trend to a successful brand.  One strategy that the company uses is by encouraging its associates from around more than 200 countries to share their experience of the brand’s fun work environment. Coca-Cola believes that it is the company’s role to spread optimism and happiness through its social media platform. It encourages employees to include and follow the same values and policies they use at work during their online experience as well. &nbsp;Additionaly, acording to the company's page, the brand tries to encourage improving their employees' expertise in social media by offering online classes that are kept  examined by officials and are up-to- date. The Coca-Cola Company has a great marketing strategy that always seems to positively connect with audiences around the world. Their advertisements and marketing campaigns are always very touching and easy to relate to, therefore, capturing many peoples' attention and hearts. The company has specific rules on how to interact with the public on social media, and these rules are to be followed by everyone associated with the business.&nbsp;",
-          "text2": "<p>Currently, according to the Coca-Cola website, the brand has 1,065,203 likes on Facebook; &nbsp;1,121,936 followers on twitter; 1,237,858 followers on LinkedIn; 10,065,248 views on youtube; and 46.3 K followers on Instagram. According to Drum, a representative from the company stated that the company persists on always finding creative ways to connect audience with the brand and that they plan on expanding their social media expertise and centralizing more attention on their social media platform in North America. The second strategy implemented by the company was to switch from working with different costly agencies to running their social media at a much cheaper and more productive way,  by focusing on creating and effectively running the North American Social Center. The social media marketing for all of Coca-Cola’s brands are managed by the North American Social Center, which is responsible for keeping all the social media sites up to date and engaging to people around the world. The staff of this department are to listen to customers’ feedback, manage publishing and creation of content, analyze marketing strategies, and monitor legal concerns. Next, the brand believes that it is also essential to use the empathy strategy to connect with consumers and effectively monitor what is trending and popular on daily basis. It is believed that this has showed great impact on its social media performance, and popular events such as the olympics, world cup, and many more are great ways for the brand to broadcast its great qualities while engaging with fans during different events. The company also uses celebrities and public figures such as Selena Gomez,  Kobe Bryant, and many more to endorse its products for advertisements on TV or even to trend hashtags on twitter and other social media platforms. &nbsp;</p>",
-          "text3": "Recently, Selena Gomez shared a video on her twitter stating her involvement in the “Share a Coke” campaign. This campaign started in 2014 in Europe, when the brand replaced the company’s written trademark with thousands of different people names in the hopes of having people share a coke with others around them to create great memorable moments. The screenshot below is from Coca-Cola’s website and it shows the great success in numbers that the campaign received when it first started in Europe. This campaign became popular all over the world, changing the trademark logo to popular names in different continents such as Europe, North America, the Middle East, and more.  According to the Wall Street Journal, Coca-Cola consumption increased by more than 2 percent after the “Share a Coke” campaign was released, and it was Coca-Cola’s most effective marketing strategy in history for several different reasons. First, consumers were encouraged to share their experience on twitter by enter the hashtag #ShareaCoke, and those who shared their experiences were entered to be featured on billboards and the company’s website. Consumers were motivated to participate and generate online media content. According to Investopedia, the company did that by targeting people who use social media to post photos and stories. Online conversations became driven by social media users themselves  instead of the company itself, and this gave the consumers a chance to be part of the Coca-Cola brand. After reading an article on Investopedia, I discovered that the campaign triggered more than 500,000 photographs to be shared using the #ShareaCoke hashtag,  and consumers shared more than 6 million of these bottles virtually. Finally, Coca-Cola’s followers increased by about 25 million on Facebook. Through this campaign, the company was able to connect with the consumers on a personal level and this generated lots of success on social media. Today, Coca-Cola has found a different way to keep this trend going and plans to replace the names with lyrics from popular trending songs. This encourages celebrities to become engaged as well and their fans to share their thoughts on social media. &nbsp;&nbsp;"
+          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
         {
           "_tags": [
             "Theme"
           ],
-          "_name": "features3",
-          "_anchor": "features3-13",
+          "_name": "header2",
+          "_anchor": "header2-1",
           "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-17-at-12-600x241.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/coke-taste-the-feeling-600x337.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://www.youtube.com/watch?v=4JmKVXgAFNA",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-17-at-11-600x173.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/images-600x336.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "http://www.adweek.com/wp-content/uploads/files/blogs/coke-taste-the-feeling-hed-2015.jpg",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media5": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "media6": {
-            "image": {
-              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          },
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
-        },
-        {
-          "_inherit": "header2",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#28262b"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            },
-            ".mbr-section-text B": {
-              "font-size": "22px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header6",
-          "_anchor": "header6-g",
-          "_params": {
-            "imageSize": "59",
+            "imageSize": 50,
             "parallax": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1-2000x1500.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -401,25 +100,29 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#ccc",
-            "inverse": true,
+            "overlayOpacity": 0.3,
+            "overlayColor": "#000",
+            "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": true
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1050.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
-              "active": true,
-              "src": "https://www.youtube.com/watch?v=JY6u9zCQTW8",
+              "src": "https://www.youtube.com/watch?v=mQrlgH97v94",
               "aspectratio": "16:9",
               "autoplay": false,
-              "loop": false
+              "loop": false,
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-header2",
@@ -427,289 +130,29 @@
               "size": 250
             }
           },
-          "title": "#ShareaCoke:",
-          "text": "<b>The campaign that led to 235,000  tweets to be created from 111,000 fans using the #ShareaCoke hashtag and that also recieved 998 impresions from twitter. </b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
-        },
-        {
-          "_inherit": "social-buttons2",
+          "title": "Solar System",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://en.wikipedia.org/wiki/Solar_System\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-16",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "bgColor": "#3d8eb9",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222"
-          },
-          "text": "<span style=\"font-size: 3rem; line-height: 1.1;\">Coca-Cola Mentioned on Twitter: #ShareaCoke</span><br>",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/hashtag/shareacoke?lang=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>          "
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
+            ".mbr-section-title": {
               "text-align": "center"
             }
-          },
+          }
+        },
+        {
           "_tags": [
             "Theme"
           ],
-          "_name": "header3",
-          "_anchor": "header3-z",
+          "_name": "content7",
+          "_anchor": "content7-2",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#3d8eb9",
-            "showMeta": true
+            "bgColor": "#fff"
           },
-          "title": "",
-          "meta": ""
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery4",
-          "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x844-800x337.png",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x844.png",
-                "caption": "<p><br></p><p><a href=\"https://twitter.com/Morgan_Stewart/status/853660593747787776\">Link</a><br><script async=\"\" src=\"//platform.twitter.com/widgets.js\" charset=\"utf-8\"></script></p>",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=jKUsSfgSdjM",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-17-00-10-51.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x2034-800x813.png",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x2034.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x276-800x110.png",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x276.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x1506-800x602.png",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x1506.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x2065-800x826.png",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x2065.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x1361-800x544.png",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x1361.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x449-800x179.png",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x449.png",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": true,
-                "videoUrl": "https://www.youtube.com/watch?v=xObDNydDmSE",
-                "videoPreview": "@PROJECT_PATH@/assets/images/2017-04-17-17-37-09.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x2034-800x813.png",
-                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-04-16-at-9-2000x2034.png",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": "1",
-            "showText": false,
-            "filter": false,
-            "bgColor": "#3d8eb9",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
-          },
-          "_anchor": "gallery4-y",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
-            },
-            ".lead P": {
-              "text-align": "center",
-              "font-size": "48px",
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-l",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/655def9117367e8df61ba82790b33ef3-2000x741.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
-          },
-          "title": "",
-          "text": "<p><b>Coca-Cola Mobile App</b></p><p><b style=\"line-height: 1.5;\"><a href=\"https://itunes.apple.com/us/app/push-play/id412549442?mt=8\" target=\"_blank\" class=\"text-warning\">(click for link)</a></b><br></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
-        },
-        {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-11",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/qdPXQLrueRg?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": true,
-            "overlay": false,
-            "overlayOpacity": "0.2",
-            "overlayColor": "#000",
-            "contentAlign": "right",
-            "showTitle": true,
-            "showText": false,
-            "showButtons": false
-          },
-          "title": "",
-          "text": "nkjnknjkknjI",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-18",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": "1",
-            "paddingBottom": "2",
-            "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5-2000x1333.jpg",
-            "bgColor": "#d14841",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "inverse": true,
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/desert.jpg",
-              "link": "https://www.youtube.com/watch?v=5-ahnFYzMp8",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=5-ahnFYzMp8",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false,
-              "active": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Conclusion:&nbsp;",
-          "text": "I believe that Coca-Cola has been doing a great job connecting with their customers effectively over the years. Their marketing strategy is brilliant and is always capable of grabbing my attention and delivering a positive message. Their visible success in transfering their story and brand to others is the reason why I picked that company for my blog. All of their campaign messages have been very relatable lately, and it brings a lot of their audience closer to the brand. They pick great slogans &nbsp;and update it over time. I agree with their social media strategy and I think their pages should be good examples for other companies to look up to.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+          "text1": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text2": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text3": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>"
         },
         {
           "_styles": {
@@ -721,233 +164,21 @@
             "Theme"
           ],
           "_name": "social-buttons2",
-          "_anchor": "social-buttons2-k",
+          "_anchor": "social-buttons2-3",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": 3,
+            "paddingBottom": 3,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/coke-taste-the-feeling-2000x1123.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "&nbsp;Coca-Cola Social Media Profiles",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/CocaCola?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/CocaColaUnitedStates/?brand_redir=40796308305\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>  <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/user/cocacola\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/cocacola/?hl=en\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/cocacola/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://coca-cola.tumblr.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-tumblr\"></i></a>    "
-        }
-      ]
-    },
-    "page1.html": {
-      "settings": {
-        "title": "Website Generator Title",
-        "meta_descr": "Website Generator Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-r",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-s",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        }
-      ]
-    },
-    "page2.html": {
-      "settings": {
-        "title": "Web Page Maker Title",
-        "meta_descr": "Web Page Maker Description"
-      },
-      "components": [
-        {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "0.75rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "#c0a375"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            }
-          },
-          "_name": "menu",
-          "_anchor": "menu-t",
-          "_params": {
-            "bgColor": "#282828",
-            "fontSize": 0.75,
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "#c0a375",
-            "transparent": true,
-            "sticky": false,
-            "logo": false,
-            "showBrand": false,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/logo.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "https://mobirise.com"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-u",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
         }
       ]
     }
